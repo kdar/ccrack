@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ccrack", "ccrack.vcproj", "{52F43561-B450-41AD-A6F9-1F439E049ACC}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Debug DLL = Debug DLL
+		Release = Release
+		Release DLL = Release DLL
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{52F43561-B450-41AD-A6F9-1F439E049ACC}.Debug.ActiveCfg = Debug|Win32
+		{52F43561-B450-41AD-A6F9-1F439E049ACC}.Debug.Build.0 = Debug|Win32
+		{52F43561-B450-41AD-A6F9-1F439E049ACC}.Debug DLL.ActiveCfg = Debug DLL|Win32
+		{52F43561-B450-41AD-A6F9-1F439E049ACC}.Debug DLL.Build.0 = Debug DLL|Win32
+		{52F43561-B450-41AD-A6F9-1F439E049ACC}.Release.ActiveCfg = Release|Win32
+		{52F43561-B450-41AD-A6F9-1F439E049ACC}.Release.Build.0 = Release|Win32
+		{52F43561-B450-41AD-A6F9-1F439E049ACC}.Release DLL.ActiveCfg = Release DLL|Win32
+		{52F43561-B450-41AD-A6F9-1F439E049ACC}.Release DLL.Build.0 = Release DLL|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
